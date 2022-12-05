@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/boostrap/boostrapUser.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/boostrap" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/profile/account-profile.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/profile" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/boost/traps.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/boost" />
+      </map>
+    </option>
+  </component>
+</project>
